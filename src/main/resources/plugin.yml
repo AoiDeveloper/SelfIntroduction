@@ -1,0 +1,7 @@
+name: SelfIntroduction
+version: '${project.version}'
+main: com.gmail.aoibotowner.selfintroduction.SelfIntroduction
+api-version: 1.16
+commands:
+  set:
+  get:
